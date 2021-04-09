@@ -1,6 +1,6 @@
 # GeoTools
 
-### PKU $S^{3}$ lab GeoTools
+### PKU S3 lab GeoTools
 
 基于Streamlit的地理数据处理分析库，目前包含的功能有
 1. 公交数据抓取及可视化
