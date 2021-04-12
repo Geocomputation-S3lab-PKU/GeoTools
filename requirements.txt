@@ -7,3 +7,4 @@ geopandas~=0.9.0
 faker~=8.0.0
 shapely~=1.7.1
 pypinyin~=0.41.0
+fiona~=1.8.18
